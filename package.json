@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ibystm/Typescript-Practice/issues"
   },
-  "homepage": "https://github.com/ibystm/Typescript-Practice#readme"
+  "homepage": "https://github.com/ibystm/Typescript-Practice#readme",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
 }
