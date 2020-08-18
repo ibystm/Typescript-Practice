@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ibystm/Typescript-Practice#readme",
   "devDependencies": {
+    "ts-node": "^8.10.2",
     "typescript": "^3.9.7"
   }
 }
