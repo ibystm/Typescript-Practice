@@ -26,5 +26,4 @@ enum Colors {
 }
 
 let green = Colors.GREEN;
-
 console.log(green);
